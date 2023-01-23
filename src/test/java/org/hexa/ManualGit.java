@@ -15,6 +15,13 @@ public class ManualGit {
 	private void tmail() {
 	System.out.println("TmailNadu");
 	}
-	
+	private void method3() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method4() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
