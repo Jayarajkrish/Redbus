@@ -32,6 +32,10 @@ public class ManualGit {
 		// TODO Auto-generated method stub
 
 	}
+	private void method5() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }
