@@ -32,6 +32,13 @@ public class ManualGit {
 		// TODO Auto-generated method stub
 
 	}
-	
+	private void covai() {
+		// TODO Auto-generated method stub
+
+	}
+	private void madurai() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
